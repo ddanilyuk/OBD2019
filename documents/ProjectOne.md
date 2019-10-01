@@ -442,5 +442,5 @@ Agile і Waterfall — дві абсолютно різні методики р�
 
 ![1](images/watterfall_vs_agile.jpg)
 
-![1](images/agile_vs_watterfall_table_(1).jpg)
-![1](images/agile_vs_watterfall_table_(2).jpg)
+![1](images/agile_vs_watterfall_table_(1).png)
+![1](images/agile_vs_watterfall_table_(2).png)
