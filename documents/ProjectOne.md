@@ -439,3 +439,7 @@ ________________________________________
 Вердикт
 Agile і Waterfall — дві абсолютно різні методики розробки та управління проектами. Кожна з них породила десятки модифікацій і методів, «заточених» під конкретний формат проектів.
 
+![1](images/watterfall vs agile.jpg)
+![1](images/watterfall.jpg)
+![1](images/agile vs watterfall table (1).jpg)
+![1](images/agile vs watterfall table (2).jpg)
