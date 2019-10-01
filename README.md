@@ -9,4 +9,4 @@
 * Данилюк Денис
 * Борозонець Денис
 * Вадим Стрілецький
-![zigane](imagesScreenshot_3-4.png)
+![zigane](documents/images/Screenshot_3-4.png)
