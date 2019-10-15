@@ -2,7 +2,7 @@
 
 **Програмний проект** - це сукупність дій, необхідна для створення артефакту. Проект включає контакт з замовником, написання документації, проектування, написання коду і тестування продукту. 
 
-![Tehnolog](image/Tehnolog.png)
+![Tehnolog](images/Tehnolog.png)
 
 https://project.dovidnyk.info/index.php/home/tehnologiyarazrabotkiprogrammnogoobespecheniya/20-vvedenie
 

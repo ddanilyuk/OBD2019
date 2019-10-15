@@ -81,7 +81,7 @@ IDEF3 (Integration Definition for Function Modeling) За допомогою IDE
 споживачів у системі управління проектами. За допомогою таблиці можна провести аналіз запропонованих цими 
 продуктами можливостей.
 
-![Tehnolog](image/MarketAnalysis.png)
+![Tehnolog](images/MarketAnalysis.png)
 
 ## 2. Короткий огляд продукту
 ### 2.1. Основна інформація
