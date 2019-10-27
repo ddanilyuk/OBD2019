@@ -3,6 +3,9 @@
 ```plantuml
 @startuml
 Alice -> Bob: test
+Alice -> Bob: test
+Alice -> Bob: test
+
 @enduml
 ```
 
