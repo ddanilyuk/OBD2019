@@ -1,8 +1,7 @@
 # Some Uml Diagrams
 
-<cut/> 
-```plantuml
 
+```plantuml
 @startuml
 Alice -> Bob: Authentication Request
 
@@ -14,12 +13,8 @@ endheader
 center footer Generated for demonstration
 
 @enduml
-``` 
-<cut/>
+```
 
 
-
-
-
-![diagram1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/ddanilyuk/OBD2019/Donis/documents/PlantUmlMarkdown/Readme.md#L4-L16)
+![diagram1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/ddanilyuk/OBD2019/Donis/documents/PlantUmlMarkdown/Readme.md#L14-26)
 
