@@ -1,10 +1,15 @@
 # Some Uml Diagrams
 
+Основной текст
+
 >>>
 
 Скрытый текст
 
 <<<
+
+Продолжение основного текста
+
 
 ```plantuml
 @startuml
@@ -21,5 +26,5 @@ center footer Generated for demonstration
 ```
 
 
-![diagram1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/ddanilyuk/OBD2019/Donis/documents/PlantUmlMarkdown/Readme.md#L9-20)
+![diagram1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/ddanilyuk/OBD2019/Donis/documents/PlantUmlMarkdown/Readme.md#L14-26)
 
